@@ -22,7 +22,7 @@ body {
 
 
 .select { 
-    flex: content;
+    display: flex;
     text-align-last: center;
     width: 450px;
     margin:auto;
@@ -32,7 +32,8 @@ body {
     margin-top: 20px;
     border-radius: 15px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    align-content: center;
+    align-items: center;
+    
     
 }
 
